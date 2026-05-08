@@ -1,0 +1,10 @@
+jiunge-upate-sacco/
+├── index.html         Homepage
+├── about.html         Vision, mission, 9 core values, future projections
+├── services.html      4 loans, 3 savings products, insurance, withdrawal policy
+├── membership.html    Tabbed Individual / Corporate / Self-Help requirements
+├── contact.html       Contact form + location card
+├── css/styles.css     Design tokens + all components
+├── js/main.js         Sticky nav, mobile menu, scroll reveal, tab switcher
+├── assets/logo.svg    SVG logo mark
+└── README.md          Full documentation
